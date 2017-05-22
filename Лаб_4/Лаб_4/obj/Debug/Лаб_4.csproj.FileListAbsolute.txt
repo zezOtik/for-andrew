@@ -1,0 +1,3 @@
+C:\Users\zotik\Desktop\123\andrey\Лаб_4\Лаб_4\bin\Debug\андрей.exe.config
+C:\Users\zotik\Desktop\123\andrey\Лаб_4\Лаб_4\obj\Debug\андрей.exe
+C:\Users\zotik\Desktop\123\andrey\Лаб_4\Лаб_4\obj\Debug\андрей.pdb

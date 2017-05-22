@@ -1,0 +1,12 @@
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\bin\Debug\Andrey3.exe.config
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\bin\Debug\Andrey3.exe
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\bin\Debug\Andrey3.pdb
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\obj\Debug\Andrey3.csprojResolveAssemblyReference.cache
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\obj\Debug\Andrey3.Form1.resources
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\obj\Debug\Andrey3.Properties.Resources.resources
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\obj\Debug\Andrey3.csproj.GenerateResource.Cache
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\obj\Debug\Andrey3.exe
+C:\Users\zotik\Desktop\Андрей\informatika\Andrey3\Andrey3\obj\Debug\Andrey3.pdb
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\bin\Debug\Andrey3.exe.config
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\obj\Debug\Andrey3.exe
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\obj\Debug\Andrey3.pdb

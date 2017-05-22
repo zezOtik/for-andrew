@@ -1,0 +1,9 @@
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\bin\Debug\Andrey3.exe.config
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\obj\Debug\Andrey3.exe
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\obj\Debug\Andrey3.pdb
+C:\Users\zotik\Desktop\123\Andrey3\Lab_6\Lab_6\bin\Debug\Andrey3.exe.config
+C:\Users\zotik\Desktop\123\Andrey3\Lab_6\Lab_6\obj\Debug\Andrey3.exe
+C:\Users\zotik\Desktop\123\Andrey3\Lab_6\Lab_6\obj\Debug\Andrey3.pdb
+C:\Users\zotik\Desktop\123\andrey\Lab_6\Lab_6\bin\Debug\Andrey3.exe.config
+C:\Users\zotik\Desktop\123\andrey\Lab_6\Lab_6\obj\Debug\Andrey3.exe
+C:\Users\zotik\Desktop\123\andrey\Lab_6\Lab_6\obj\Debug\Andrey3.pdb

@@ -1,0 +1,3 @@
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\bin\Debug\Andrey3.exe.config
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\obj\Debug\Andrey3.exe
+C:\Users\zotik\Desktop\123\Andrey3\Andrey3\Andrey3\obj\Debug\Andrey3.pdb

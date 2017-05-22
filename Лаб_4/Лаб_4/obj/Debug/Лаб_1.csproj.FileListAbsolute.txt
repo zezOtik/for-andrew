@@ -1,0 +1,12 @@
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\bin\Debug\андрей.exe.config
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\obj\Debug\андрей.exe
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\obj\Debug\андрей.pdb
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\bin\Debug\андрей.exe
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\bin\Debug\андрей.pdb
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\obj\Debug\Лаб_1.csprojResolveAssemblyReference.cache
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\obj\Debug\андрей.Form1.resources
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\obj\Debug\андрей.Properties.Resources.resources
+C:\Users\zotik\Desktop\123\andrey\Лаб_1\Лаб_1\obj\Debug\Лаб_1.csproj.GenerateResource.Cache
+C:\Users\zotik\Desktop\123\andrey\Лаб_4\Лаб_4\bin\Debug\андрей.exe.config
+C:\Users\zotik\Desktop\123\andrey\Лаб_4\Лаб_4\obj\Debug\андрей.exe
+C:\Users\zotik\Desktop\123\andrey\Лаб_4\Лаб_4\obj\Debug\андрей.pdb
